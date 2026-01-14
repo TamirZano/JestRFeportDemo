@@ -91,6 +91,12 @@ coverage-final.json
 
 ---
 
+## Code Coverage Report Example
+
+<img src="docs/images/coverage-summary.png" width="800" />
+
+---
+
 ### Viewing the coverage report
 
 Open the HTML report:
