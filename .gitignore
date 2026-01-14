@@ -9,12 +9,6 @@ dist/
 build/
 *.tsbuildinfo
 
-# Jest / Coverage
-coverage/
-reports/
-allure-results/
-allure-report/
-
 # Environment
 .env
 .env.local
